@@ -74,6 +74,7 @@ body {
 .our-btn--outline:hover {
   background-color: white;
   color: #475AFF;
+  border: 2px solid #FFF;
 }
 
 .utility-mr {
